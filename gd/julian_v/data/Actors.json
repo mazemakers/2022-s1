@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"cainfight","characterIndex":0,"characterName":"CainWalking","classId":1,"equips":[2,28,0,3,0],"faceIndex":0,"faceName":"Cain","traits":[{"code":43,"dataId":41,"value":1},{"code":34,"dataId":0,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Cain","nickname":"\"the engineer\"","note":"","profile":""},
+{"id":2,"battlerName":"Andrew.Fight","characterIndex":0,"characterName":"Andrew.walk","classId":4,"equips":[20,0,48,9,0],"faceIndex":0,"faceName":"Andrew.Face","traits":[{"code":43,"dataId":41,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Andrew","nickname":"The guard","note":"","profile":""},
+{"id":3,"battlerName":"George.Fight","characterIndex":0,"characterName":"George.Walk","classId":7,"equips":[39,0,48,5,74],"faceIndex":0,"faceName":"George","traits":[{"code":43,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"George","nickname":"The ranger","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":5,"equips":[31,0,0,5,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Michelle","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Yeetbattl","characterIndex":0,"characterName":"yeet.walk","classId":5,"equips":[31,27,46,2,0],"faceIndex":0,"faceName":"Yeet","traits":[{"code":43,"dataId":5,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Malin","nickname":"The karate girl","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

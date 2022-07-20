@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"gfg5tg5t4q","characterIndex":0,"characterName":"walmrt person","classId":6,"equips":[1,0,0,13,97],"faceIndex":0,"faceName":"walmart dio","traits":[{"code":33,"dataId":0,"value":1000},{"code":43,"dataId":17,"value":1},{"code":43,"dataId":19,"value":1},{"code":11,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Hernando","nickname":"Paper Towel","note":"","profile":"Kills Monsters. Anger Issues HBHBheikbwkjbfmbvfebfvev v n b vb"},
+{"id":2,"battlerName":"2nd porson","characterIndex":0,"characterName":"2nd guy","classId":1,"equips":[3,0,0,9,0],"faceIndex":0,"faceName":"2nd character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Priscilla","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":5,"equips":[31,0,65,5,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gale","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":5,"equips":[31,0,0,5,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Michelle","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":2,"equips":[7,0,0,20,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Albert","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kasey","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eliot","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roza","nickname":"","note":"","profile":""}
+]

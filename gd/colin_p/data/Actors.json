@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":4,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":20,"name":"Reid","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"main carecter battler","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Main Character","traits":[],"initialLevel":1,"maxLevel":99,"name":"leon","nickname":"lin","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_3","characterIndex":2,"characterName":"Actor2","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"joey","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_7","characterIndex":2,"characterName":"People2","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"jim","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor2_7","characterIndex":6,"characterName":"People2","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"forter","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""}
+]

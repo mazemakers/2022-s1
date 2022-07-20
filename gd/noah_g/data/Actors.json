@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_5","characterIndex":3,"characterName":"Monster","classId":8,"equips":[47,47,0,0,0],"faceIndex":3,"faceName":"Monster","traits":[{"code":33,"dataId":0,"value":99},{"code":34,"dataId":0,"value":3},{"code":43,"dataId":151,"value":1},{"code":43,"dataId":156,"value":1},{"code":43,"dataId":154,"value":1},{"code":43,"dataId":148,"value":1},{"code":43,"dataId":127,"value":1},{"code":43,"dataId":130,"value":1},{"code":43,"dataId":54,"value":1},{"code":43,"dataId":75,"value":1},{"code":43,"dataId":210,"value":1},{"code":43,"dataId":72,"value":1}],"initialLevel":99,"maxLevel":99,"name":"Faded","nickname":"\"The Spectre","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_3","characterIndex":7,"characterName":"Evil","classId":8,"equips":[43,43,0,0,0],"faceIndex":7,"faceName":"Evil","traits":[{"code":43,"dataId":210,"value":1},{"code":43,"dataId":20,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Darkside","nickname":"Invis","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"EMPTY","nickname":"","note":"","profile":""}
+]
