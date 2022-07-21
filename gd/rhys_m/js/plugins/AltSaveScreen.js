@@ -115,12 +115,4 @@
         this.drawText(info.playtime, rect.x, playtimeY, rect.width, "right");
     };
 
-    Window_SavefileStatus.prototype.drawPartyfaces = function(faces, x, y) {
-        if (faces) {
-            for (let i = 0; i < faces.length; i++) {
-                const data = faces[i];
-                this.drawFace(data[0], data[1], x + i * 150, y);
-            }
-        }
-    };
-})();
+    Window_SavefileStatus.prototype.drawPartyfaces = function(faces, x, y
